@@ -1,5 +1,13 @@
 # Changelog
 
+## \[2.0.0-beta.3]
+
+### Dependencies
+
+- Upgraded to `http@2.0.0-beta.3`
+- Upgraded to `updater@2.0.0-beta.3`
+- Upgraded to `global-shortcut@2.0.0-beta.3`
+
 ## \[2.0.0-beta.2]
 
 ### Dependencies
